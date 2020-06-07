@@ -3,5 +3,5 @@ Obligatory first project
 
 Blah blah blah 😃
 
-Lorem Ipsen
+Lorem Ipsem
 
